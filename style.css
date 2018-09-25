@@ -1,0 +1,79 @@
+p
+{
+	font-family: Courier New, Arial, sans-serif; 
+	font-size: 1em;
+	text-align: justify;
+}
+
+.mapartie
+{
+	font-family: Courier New, Arial, sans-serif; 
+	font-size: 1em;
+	font-weight: bold;
+}
+
+.first
+{
+	font-family: Trebuchet MS, Impact, sans-serif;
+	color: grey;
+	border-bottom: 2.2px aqua dotted;
+}
+
+.underfirst
+{
+	font-family: Arial, Trebuchet MS, Impact, sans-serif;
+	font-style: italic;
+	font-size: 22px;
+	color: red;
+}
+
+h2
+{
+	font-family: Courier New, Arial, sans-serif;
+	font-size: 25px;
+	color: navy;
+}
+
+.only
+{
+	font-family: Courier New, Arial, sans-serif;
+	font-size: 18px;
+	font-style: italic;
+	color: navy;
+}
+
+ul
+{
+	font-weight: bold;
+	font-family: Courier New, Arial, sans-serif;
+	font-size: 1em;
+}
+
+.citation
+{
+	font-family: Courier New, Arial, sans-serif;
+	font-size: 1em;
+	font-style: italic;
+	color: pink;
+	text-align: left;
+}
+
+body
+{
+	background-color: #E6FAFF;
+}
+
+.flottante
+{
+	float: justify;
+}
+
+.lunette
+{
+	float: left;
+}
+
+.décalé
+{
+	clear: left;
+}
